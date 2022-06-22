@@ -6,7 +6,7 @@ from telebot import types
 
 
 URL = 'https://www.anekdot.ru/last/good/'
-API_TOKEN = '5511532136:AAHXafwmPHqgw6uSvEFcj9Q0nuBSQqz917o'
+API_TOKEN = 'secret_token'
 
 
 def parser(url):
